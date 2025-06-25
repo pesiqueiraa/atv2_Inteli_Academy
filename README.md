@@ -21,6 +21,6 @@
 2. Aba o Google Colab pelo link https://colab.research.google.com/
 3. Faça Login com sua conta Google
 4. Clique em Arquivo
-5. Faça um upload de notebook e adicione o arquivo Atividade_Inteli_Academy.ipynb
+5. Faça um upload de notebook e adicione o arquivo atv2_Inteli_Academy.ipynb
 6. Agora, para adicionar o csv, na aba lateral esquerda clique no icone de arquivos e depois o ícone de upload de arquivo.
 7. Depois de subir o csv, clique em Ambiente de Execução e selecione Executar tudo, para rodar todo projeto
